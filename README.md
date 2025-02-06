@@ -22,6 +22,7 @@ This is a simple **Flask-based Language_translator** that allows users to transl
 ###  1. Clone the Repository  
 
 git clone https://(https://github.com/Dev-probuilder/Language_translator)
+
 cd Language_translator
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
