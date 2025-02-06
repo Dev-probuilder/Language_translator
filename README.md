@@ -1,6 +1,6 @@
-# 🌎 Flask Text Translator  
+# 🌎 Flask Language_translator 
 
-This is a simple **Flask-based Text Translator** that allows users to translate text into multiple languages using **Google Translate API**.  
+This is a simple **Flask-based Language_translator** that allows users to translate text into multiple languages using **Google Translate API**.  
 
 ---
 
@@ -20,22 +20,18 @@ This is a simple **Flask-based Text Translator** that allows users to translate 
 ## 🎯 How to Install & Run  
 
 ### 🔹 1. Clone the Repository  
-```bash
-git clone https://github.com/your-username/flask-translator.git
-cd flask-translator
-🔹 2. Set Up a Virtual Environment (Optional but Recommended)
-bash
+
+git clone https://(https://github.com/Dev-probuilder/Language_translator)
+cd Language_translator
+
+### 2. Set Up a Virtual Environment (Optional but Recommended)
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-🔹 3. Install Dependencies
-bash
-pip install -r requirements.txt
-(If requirements.txt doesn't exist, install manually)
-
-bash
 pip install flask googletrans==4.0.0-rc1
-🔹 4. Run the Flask App
-bash
+
+### 3. Run the Flask App
 python app.py
-🔹 5. Open in Browser
+
+### 4. Open in Browser
 Go to http://127.0.0.1:5000/
