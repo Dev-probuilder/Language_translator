@@ -28,7 +28,10 @@ cd Language_translator
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# On Linux: source venv/bin/activate 
+# On Windows: venv\Scripts\activate
+
 pip install flask googletrans==4.0.0-rc1
 
 ### 3. Run the Flask App
