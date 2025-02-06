@@ -29,8 +29,9 @@ cd Language_translator
 
 python -m venv venv
 
-# On Linux: source venv/bin/activate 
-# On Windows: venv\Scripts\activate
+On Linux: source venv/bin/activate 
+
+On Windows: venv\Scripts\activate
 
 pip install flask googletrans==4.0.0-rc1
 
